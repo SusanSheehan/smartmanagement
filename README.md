@@ -86,11 +86,10 @@ intelligently and ensure that it informs all about any unexpected delays and cha
 ## Avoid overly rigid processes
 Orderly execution of activities is highly crucial when it comes to software projects. Dealing with
 the complex Scenario in a project that is already very complex can be a highly difficult
-management structure. Therefore, coordinators must ensure to create simple new processes
-which are time efficient, require less effort and save more money. Also, providing flexibility and
+management structure. Therefore, coordinators must ensure to <a href="https://www.tutorialspoint.com/management_concepts/project_management_processes.htm">create simple new processes</a> which are time efficient, require less effort and save more money. Also, providing flexibility and
 responsiveness is crucial.
 ## Give the right to decide
-Teamwork is crucial in software development projects, and therefore, every team member must
+Team work is crucial in software development projects, and therefore, every team member must
 be encouraged to make decisions. They must be given the power to make decisions so that you
 get a lower burden of making decisions on their behalf. Also, it will free up your time, giving your
 team more autonomy, and they will be able to work faster. For instance, you can give your team
@@ -99,11 +98,10 @@ members access to company cards along with them to make purchases whenever requi
 Most teams work best when they have objectives to meet. When it comes to software
 development teams, the targets are required to be public for the whole team so that they can
 work collectively and achieve them in the given timeframe. It is also crucial to set useful
-software development metrics for the team to better understand the task and meet the goals
+software development metrics for the team to better understand the task and meet the <a href="https://www.linkedin.com/pulse/smart-vs-clear-goals-md-zahid-hossain">goals</a>
 that you have set.
 ## Create individual goals
-Apart from the team goals, the requirement for individual goals is also significant in the software
-development teams. When you set a target, the individual members of the team have a target,
+Apart from the team goals, the requirement for <a href="https://www.liveplan.com/blog/which-are-better-individual-or-team-goals/">individual goals</a> is also significant in the software development teams. When you set a target, the individual members of the team have a target,
 and they have a time frame to meet them. It is also very important to make sure that you
 discuss these goals once a year by holding a one-on-one meeting so that you can increase the
 number of team members from time to time.
@@ -115,20 +113,17 @@ important to the organization, and they will be more dedicated to meeting their 
 ## Be consistent on checkups
 It is important for your team members to share every problem with you in the best manner
 possible, and for that, you must try to perform work consistently. When you tell the team
-members about something that you are going to do within the time frame, you make sure that it is completed within the said time. It will help you to build trust within the team, and you can lead
-your team in an efficient way.
+members about something that you are going to do within the time frame, you make sure that it is completed within the said time. It will help you to build trust within the team, and you can lead your team in an efficient way.
 ## Keep open-door policy
 When you keep a closed policy of having discussions with the team members, it makes it
-difficult for the team members to convey their problems to you. With an open door policy, when
-a team member feels like they need to discuss something with you, you need to get time for
-them. It will increase your respect as a manager among your team members, and it will remove
-blockers between you and your teams.
+difficult for the team members to convey their problems to you. With an <a href="https://www.entrepreneur.com/leadership/how-an-open-door-policy-could-be-the-key-to-staff-retention/437366">open door policy</a>, when a team member feels like they need to discuss something with you, you need to get time for
+them. It will increase your respect as a manager among your team members, and it will remove blockers between you and your teams.
 ## Know your team members
 Acknowledging the skill set of your team members is crucial for effective software development
 team management. You can split the members according to their skills when required and get
 the best results from their actions.
 ## Don’t micromanage
-Micromanaging can decrease the productivity of the team, and therefore, you must learn how to
+<a href="https://www.managementcenter.org/resources/staying-involved-without-micromanaging/">Micromanaging can decrease the productivity of the team</a>, and therefore, you must learn how to
 get out of their way. Once you have made the important decisions, let the team make the rest of
 the choices and let them do their work independently.
 ## Create examples yourself
